@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harsha-Karimikonda
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on webdevelopment
+- 🌱 I’m currently into Machine Learning
+- 💞️ I’m looking to collaborate on machine learning, deep learning, and computer vision.
 - 📫 To reach me you can mail me
 
 <!---
